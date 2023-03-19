@@ -1,8 +1,4 @@
 # EMedicine_API
-Hello, I'm Umut, let me tell you about the project.An e-commerce project called E-Medicine.    A complete full stack project using ASP.Net Core Web API as Back-End, React JS as Front-End, and SQL Server as database.
-
-# E-Medicine 
-
 
 Hello, I'm Umut, let me tell you about the project.
 An e-commerce project called E-Medicine.
